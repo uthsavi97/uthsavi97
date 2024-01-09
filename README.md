@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uthsavi</h1>
-<h3 align="center">Launching Data Science Career: Essential Resources for Beginners Seeking Job Opportunities in Machine Learning</h3>
+<h3 align="center">Proactive and Results-Oriented MSc Graduate: Eager to Leverage Data Science Skills for Continuous Improvement</h3>
 
 - 📫 How to reach me **uthsaviyp@gmail.com**
 
