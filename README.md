@@ -1,5 +1,7 @@
 # 💫 About Me:
-Org Chem MSc with a passion for Data Science; hands-on projects enthusiast and active open-source contributor, including impactful work with Omdena<br><br>- 🌱 I’m currently learning **GenAI,LLM,NLP**<br>- 📑 Check out my resume here - [My Resume](https://docs.google.com/document/d/1CUcpheUrXVc-Ih8d2pNGCYhrnb0ePChF1dCcBf-JUHY)<br>- 📫 Reach out to me at **uthsaviyp@gmail.com**
+Org Chem MSc with a passion for Data Science; hands-on projects enthusiast and active open-source contributor, including impactful work with Omdena<br><br>- 🌱 I’m currently learning ** GenAI
+LLM
+NLP**<br>- 📑 Check out my resume here - [My Resume](https://docs.google.com/document/d/1CUcpheUrXVc-Ih8d2pNGCYhrnb0ePChF1dCcBf-JUHY)<br>- 📫 Reach out to me at **uthsaviyp@gmail.com**
 ### I have interest in:
 * Machine Learning
 * Deep Learning
