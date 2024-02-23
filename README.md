@@ -11,7 +11,7 @@ Org Chem MSc with a passion for Data Science; hands-on projects enthusiast and a
 * Machine Learning
 * Deep Learning
 * Natural Language Processing 
-* Computer Vision
+
 
 👉[My Portfolio](https://uthsavi-portfolio.netlify.app/)
 
