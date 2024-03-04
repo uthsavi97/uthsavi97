@@ -2,6 +2,7 @@
 Org Chem MSc with a passion for Data Science; hands-on projects enthusiast and active open-source contributor, including impactful work with Omdena
 
 ### I’m currently learning 
+* DSA
 * GenAI
 * LLM
 * NLP
